@@ -1,0 +1,13 @@
+
+
+#navegacao li a:visited, li a:link{
+    font-weight: bold;
+    color: white;
+}
+
+#navegacao li a:hover{
+    color: red;
+    text-decoration-line: underline;
+}
+
+
